@@ -1,0 +1,10 @@
+</$objtype/mkfile
+
+TARG=rhoc1
+OFILES=\
+	y.tab.$O
+YFILES=\
+	rhoc.y
+BIN=/$objtype/bin
+
+</sys/src/cmd/mkone

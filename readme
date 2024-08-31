@@ -1,0 +1,14 @@
+Welcome to rhoc, rodri's high-order calculator. This program is
+already shipping with plan 9 so, in order to separate it from the
+original, here is my version.
+
+I'm creating a folder per stage as it is explained in tupe [1], like
+`s1', `s2', for stage one and two respectively.
+
+I also took the freedom to create the program my own way, so it's not
+exactly as shown in the book, although it's got the same features.  In
+addition to UTF support (fuck you lex!)
+
+
+References:
+[1] The Unix Programming Environment, by Kernighan and Pike, 1984.
