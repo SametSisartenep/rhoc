@@ -1,0 +1,16 @@
+</$objtype/mkfile
+
+TARG=rhoc3
+OFILES=\
+	y.tab.$O\
+	sym.$O\
+	builtin.$O
+YFILES=\
+	rhoc.y
+HFILES=\
+	dat.h\
+	fns.h\
+	y.tab.h
+BIN=/$objtype/bin
+
+</sys/src/cmd/mkone
